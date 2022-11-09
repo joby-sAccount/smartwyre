@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Smartwyre.DeveloperTest.Runner/1.0.0": {
+        "dependencies": {
+          "Smartwyre.DeveloperTest": "1.0.0"
+        },
+        "runtime": {
+          "Smartwyre.DeveloperTest.Runner.dll": {}
+        }
+      },
+      "Smartwyre.DeveloperTest/1.0.0": {
+        "runtime": {
+          "Smartwyre.DeveloperTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Smartwyre.DeveloperTest.Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Smartwyre.DeveloperTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

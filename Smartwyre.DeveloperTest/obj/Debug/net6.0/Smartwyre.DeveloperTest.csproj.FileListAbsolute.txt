@@ -1,0 +1,12 @@
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/bin/Debug/net6.0/Smartwyre.DeveloperTest.deps.json
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/bin/Debug/net6.0/Smartwyre.DeveloperTest.dll
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/bin/Debug/net6.0/Smartwyre.DeveloperTest.pdb
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/Smartwyre.DeveloperTest.csproj.AssemblyReference.cache
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/Smartwyre.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/Smartwyre.DeveloperTest.AssemblyInfoInputs.cache
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/Smartwyre.DeveloperTest.AssemblyInfo.cs
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/Smartwyre.DeveloperTest.csproj.CoreCompileInputs.cache
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/Smartwyre.DeveloperTest.dll
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/refint/Smartwyre.DeveloperTest.dll
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/Smartwyre.DeveloperTest.pdb
+/Users/Joby/Desktop/work/smartwyre/developer-interview-test/Smartwyre.DeveloperTest/obj/Debug/net6.0/ref/Smartwyre.DeveloperTest.dll
